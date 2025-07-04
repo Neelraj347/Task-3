@@ -1,5 +1,6 @@
 # Task-3
 
+Name:NEEL RAJ GUPTA Company:CODETECH IT SOLUTION ID:CT04DF2936 Domain:C LANGUAGE Duration:5 JUNE 2025 TO 5 JULY 2025 Mentor:NEELA SANTHOSH KUMAR 
 Internship Report: Compiler Design Basics in C Language
 Introduction
 During my internship, I worked on understanding compiler design basics and implemented a simple lexical analyzer in C language. This project helped me learn how source code is processed and analyzed before execution, and gave me a practical understanding of compiler stages.
